@@ -1,0 +1,73 @@
+[33mcommit 7da57617ccc155cae71f24639993db70daf9febe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1f92048 d7cd690
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Thu Jul 20 15:19:14 2023 -0500
+
+    est es mi nisecuanto commit
+
+[33mcommit d7cd6906691b7c3f577d4f123e324403e02443f5[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 16:04:16 2023 -0500
+
+    Login V2
+
+[33mcommit 1f920487cfb7dd711d3391d42e8ed25e83e466dd[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 15:40:02 2023 -0500
+
+    Git 3 v3
+
+[33mcommit 4f4a1b01caf5d0522bb32cd05ec2932ddfe096b7[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 15:37:04 2023 -0500
+
+    Git 3 Login
+
+[33mcommit 106183cf93e7ff37d8bb2523b09d44846844d3f7[m
+Merge: a583692 3615576
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 15:29:56 2023 -0500
+
+    Merge branch 'master' into login
+
+[33mcommit 36155766a2c8925a6e8770e1e09ba70217982f79[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 10:46:02 2023 -0500
+
+    Git 3 Version
+
+[33mcommit a5836925d398d326a7a1de4f421ca24bd4734aeb[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 10:36:13 2023 -0500
+
+    Login
+
+[33mcommit 585cc6f19168048509bd73192c919970cf719e0b[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Wed Jul 19 10:15:19 2023 -0500
+
+    Este es mi quinto commit
+
+[33mcommit b2790546ca198cf5b900105ee71fc561ce75a45f[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Tue Jul 18 17:07:58 2023 -0500
+
+    Se añade el .gitignore
+
+[33mcommit 6cc8a61cd89c077cfff837abecc5e75c9375e7aa[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Tue Jul 18 16:46:59 2023 -0500
+
+    Seactualiza el testo del print
+
+[33mcommit 58ace55e731bcd1fb0d0d3a30ec2c36a6d683401[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Tue Jul 18 16:31:15 2023 -0500
+
+    Este es mi segundo commit
+
+[33mcommit 20da7c6a9a3c00914ed3da0db00a6d0d95e57f08[m
+Author: JoelitoBello <iceman9165@hotmail.com>
+Date:   Mon Jul 17 17:58:00 2023 -0500
+
+    Este es mi primer commit
